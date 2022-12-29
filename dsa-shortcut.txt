@@ -1,0 +1,6 @@
+
+//for binary serach tree to find the mid position to avoid if n is max value of int
+
+
+    int s = 0, e = n-1;
+    int mid = s + (e-s)/2;
