@@ -4,3 +4,11 @@
 
     int s = 0, e = n-1;
     int mid = s + (e-s)/2;
+    
+    
+//for find a number that is occured only once in a array that has multiple frequency for a elemnt
+
+  use XOR as 4^4 = 0 and 0 ^ 4 = 4
+  
+  
+ //DUtch national flag use 3 pointer approach and start it by mid and low pointing at 0 and high at n-1
